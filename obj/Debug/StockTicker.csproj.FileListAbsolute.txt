@@ -1,0 +1,13 @@
+C:\Users\kiram\source\repos\Assignment_One_Commercial\StockTicker\bin\Debug\StockTicker.exe.config
+C:\Users\kiram\source\repos\Assignment_One_Commercial\StockTicker\bin\Debug\StockTicker.exe
+C:\Users\kiram\source\repos\Assignment_One_Commercial\StockTicker\bin\Debug\StockTicker.pdb
+C:\Users\kiram\source\repos\Assignment_One_Commercial\StockTicker\obj\Debug\StockTicker.csprojAssemblyReference.cache
+C:\Users\kiram\source\repos\Assignment_One_Commercial\StockTicker\obj\Debug\StockTicker.csproj.CoreCompileInputs.cache
+C:\Users\kiram\source\repos\Assignment_One_Commercial\StockTicker\obj\Debug\StockTicker.exe
+C:\Users\kiram\source\repos\Assignment_One_Commercial\StockTicker\obj\Debug\StockTicker.pdb
+C:\Users\kiram\Desktop\repos\StockTicker\bin\Debug\StockTicker.exe.config
+C:\Users\kiram\Desktop\repos\StockTicker\bin\Debug\StockTicker.exe
+C:\Users\kiram\Desktop\repos\StockTicker\bin\Debug\StockTicker.pdb
+C:\Users\kiram\Desktop\repos\StockTicker\obj\Debug\StockTicker.csproj.CoreCompileInputs.cache
+C:\Users\kiram\Desktop\repos\StockTicker\obj\Debug\StockTicker.exe
+C:\Users\kiram\Desktop\repos\StockTicker\obj\Debug\StockTicker.pdb
